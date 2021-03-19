@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "495380628186",
+    "firebase_url": "https://new-shop-d7ee5.firebaseio.com",
+    "project_id": "new-shop-d7ee5",
+    "storage_bucket": "new-shop-d7ee5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495380628186:android:2835325a56510a85795be3",
+        "android_client_info": {
+          "package_name": "com.example.Millichange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495380628186-e3m4nu4ol82iifa8o4cotjc453tosg92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Millichange",
+            "certificate_hash": "9292993a965d80bd3bdf395805e2fbef12883e26"
+          }
+        },
+        {
+          "client_id": "495380628186-64deec9f8holrlab3nmf0fc4fqckslkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGsP8bD90XdEJJ9J-f2z0GS-3UpDaFhYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495380628186-64deec9f8holrlab3nmf0fc4fqckslkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
